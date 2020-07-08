@@ -16,9 +16,9 @@ def is_connected():
 
 
 def mail_sender(filename, generated_time):
-    from_address = "tjagtap258@gmail.com"
-    to_address = "tjagtap25800@gmail.com"
-    gmail_password = "tdj@28091997"
+    from_address = "***********"
+    to_address = "*************"
+    gmail_password = "************"
 
     msg = MIMEMultipart()
     msg['from'] = from_address
